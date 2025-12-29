@@ -1,6 +1,8 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to GameOfAlgo! This project will appreciate any type of contribution whether it is bug fixes or improving efficiency. Every contribution big or small is appreciated! 
+Thank you for your interest in contributing to this repository!
+
+This project will appreciate any type of contribution whether it is bug fixes or improving efficiency. Every contribution big or small is appreciated! 
 
 Please read the guidelines below to ensure smooth and meaningful contributions.
 
